@@ -2,7 +2,7 @@
 Бот торгует по направлению последнего ребра ZigZag-а при подтверждении ADX, WPR и TEMA
 
 * Created by Denis Kislitsyn | denis@kislitsyn.me | [kislitsyn.me](https://kislitsyn.me/personal/algo)
-* Version: 1.00
+* Version: 1.00-demo
 
 ## Что нового?
 ```
